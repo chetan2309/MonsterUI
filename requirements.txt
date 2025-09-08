@@ -1,0 +1,3 @@
+# requirements.txt
+python-fasthtml>=0.6.9
+python-multipart>=0.0.6
